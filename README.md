@@ -2,13 +2,7 @@
 Should hot reload on dev. build workflow should be modified..
 
 
-## Note Taking Application
-
-Notes application allows you to create, update, delete and view notes.
-
-### Demo
-
-A Live demo of the application can be seen here. https://secret-dusk-27093.herokuapp.com
+## PDP CS  (Product Display Page Case Study for Target)
 
 ### Tech Stack
 
